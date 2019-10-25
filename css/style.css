@@ -1,10 +1,17 @@
 h1{
 	text-align:center;
+	font-size: 4em;
 }
 body{
 	background-image: url(../images/space.jpg);
 	background-size: cover;
+	margin: 0;
+	padding: 0;
 }
 #everything {
 	color: white;
 }
+table, th, td {
+  border: 1px solid white;
+}
+
